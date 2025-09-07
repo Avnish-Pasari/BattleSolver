@@ -1,4 +1,4 @@
-# Battleship Solitaire Solver 🚢
+# BattleSolver – AI Puzzle Game Engine 🚢
 
 A Python AI program that solves **Battleship Solitaire puzzles** by formulating them as a **Constraint Satisfaction Problem (CSP)** and solving with **backtracking search**, **constraint propagation** (AC-3 / forward checking), and heuristics.  
 
